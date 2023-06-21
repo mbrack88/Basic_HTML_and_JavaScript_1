@@ -1,0 +1,1 @@
+alert("Yo yo yo, Im'a alert box!");
